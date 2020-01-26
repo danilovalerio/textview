@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TextView</string>
+    <string name="texto_auto_link">Danilo Valério
+        \nEmail: danilovaleriosilva@gmail.com
+        \nFone: 987654321
+        \nUrl:http://www.google.com
+    </string>
+    <string name="texto_grande_exceder">Texto bem grande para não caber em apenas uma linha nem em duas </string>
+    <string name="texto_fonte_monospace">Fonte monospace</string>
+    <string name="texto_fonte_customizada">Fonte customizada</string>
+    <string name="texto_strike">Texto strike</string>
+
+</resources>
